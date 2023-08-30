@@ -1,5 +1,5 @@
 
-int stupid(int n){
+int stoopid(int n){
     return n + 1;
 }
 int main(){
